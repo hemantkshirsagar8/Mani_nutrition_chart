@@ -3,4 +3,4 @@ Automated nutrition chart preparation using python.
 
 Input: CSV files with nutritional values
 
-Output: Word document files with nutrition data tabular format.
+Output: Word document files with nutrition data in tabular format.
